@@ -1,1 +1,0 @@
-This is the second file that is to be deleted.
